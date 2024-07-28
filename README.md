@@ -159,7 +159,7 @@ poetry run python app.py
 
 Para rodar no poetry como aplicativo web use o comando:
 ```python
-poetry run flet run -d
+poetry run flet run -w app.py
 ```
 [Screencast from 2024-07-28 13-01-10.webm](https://github.com/user-attachments/assets/9baaa27f-cce5-41ea-91e7-865e06126e14)
 
