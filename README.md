@@ -2,6 +2,7 @@
 
 [![MIT License](https://img.shields.io/badge/license-MIT-007EC7.svg?style=flat-square)](/LICENSE)[![Build](https://github.com/oh-my-fish/oh-my-fish/workflows/Build/badge.svg)](https://github.com/oh-my-fish/oh-my-fish/actions?query=workflow%3ABuild)![Poetry](https://img.shields.io/badge/Poetry-%233B82F6.svg?style=for-the-badge&logo=poetry&logoColor=0B3D8D)![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
+[Screencast from 2024-07-28 02-25-31.webm](https://github.com/user-attachments/assets/a025048d-05fb-49de-8468-5b0822c42b07)
 
 
 Neste estudo de caso, explorei a viabilidade da biblioteca Flet, uma ferramenta incrível para criar aplicativos web, móveis e de desktop em Python. O que mais me impressionou foi a simplicidade de uso e a interatividade proporcionada pela Flet, mesmo sem experiência prévia em desenvolvimento front-end. Além disso, o fato de o Flet ser construído com Flutter, mas sem a necessidade de usar Dart, permite que os aplicativos tenham uma aparência profissional e funcionem em várias plataformas, incluindo Windows, Linux, macOS, dispositivos móveis e web.
@@ -155,8 +156,6 @@ poetry run python app.py
 ```
 
 ![](/imagens/poetry_run.png)
-
-[Screencast from 2024-07-28 02-25-31.webm](https://github.com/user-attachments/assets/a025048d-05fb-49de-8468-5b0822c42b07)
 
 
 
