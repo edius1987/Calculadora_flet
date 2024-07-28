@@ -156,6 +156,9 @@ poetry run python app.py
 
 ![](/imagens/poetry_run.png)
 
+[Screencast from 2024-07-28 02-25-31.webm](https://github.com/user-attachments/assets/a025048d-05fb-49de-8468-5b0822c42b07)
+
+
 
 ### Erros no processo e sua solução
 
