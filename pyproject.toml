@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "calculadora"
+version = "0.1.0"
+description = "Calculadora exemplo Flet em Python com modificações, apenas para estudo da biblioteca Flet e como molda-ĺá em um projeto já existente."
+authors = ["Edius Ferreira <ediusferreira@gmail.com>"]
+license = "MIT"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+flet = "^0.23.2"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
