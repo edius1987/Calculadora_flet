@@ -66,6 +66,8 @@ A construção do layout é basíco:
 
 Para linhas `ft.row`, colunas `ft.Column`, texto `ft.Text` e [botões estilizados](https://flet.dev/docs/getting-started/custom-controls/#styled-controls)`ft.ElevatedButton`
 
+![](/imagens/calc.png)
+
 Logo temos as classes criadas:
 
 Para melhorar o visual dos botões criasse uma classe para estilizar os botões:
@@ -152,7 +154,7 @@ Para rodar no poetry use:
 poetry run python app.py
 ```
 
-![](/imagens/poetry run.png)
+![](/imagens/poetry_run.png)
 
 
 ### Erros no processo e sua solução
