@@ -150,13 +150,18 @@ class ExtraActionButton(CalcButton):
 
 Faça o código e siga a receita de bolo do exemplo.
 
-Para rodar no poetry use:
+Para rodar no poetry como aplicativo use o comando:
 ```python
 poetry run python app.py
 ```
 
 ![](/imagens/poetry_run.png)
 
+Para rodar no poetry como aplicativo web use o comando:
+```python
+poetry run flet run -d
+```
+[Screencast from 2024-07-28 13-01-10.webm](https://github.com/user-attachments/assets/9baaa27f-cce5-41ea-91e7-865e06126e14)
 
 
 ### Erros no processo e sua solução
@@ -199,9 +204,7 @@ Para resolver esse erro entre em `/usr/lib/x86_64-linux-gnu` e então faça `ln 
 [Flutter With Python - DEV Community][https://dev.to/ankushsinghgandhi/building-cross-platform-apps-with-flutter-and-python-a-short-guide-using-flet-epa]
 [Build multi-platform apps in Python powered by Flutter | Flet][https://flet.dev/]
 [Python: Venv e Poetry para criar ambientes virtuais][https://www.alura.com.br/artigos/ven-poetry-no-python]
-
 [Criação de um projeto Python com Poetry][https://aprendendoprogramar.com.br/tutoriais/python/create-app-with-poetry/#criacao-e-configuracao-de-um-projeto-project-setup]
-
 [Usando o Poetry em seus projetos python][https://medium.com/@volneycasas/usando-o-poetry-em-seus-projetos-python-70be5f018281]
-
 [Poetry — Gerenciamento de dependências em Python][https://dev.to/devs-jequie/poetry-gerenciamento-de-dependencias-em-python-4djf]
+[https://phylos.net/2023-07-10/python-com-flet](https://phylos.net/2023-07-10/python-com-flet)
